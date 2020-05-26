@@ -82,6 +82,7 @@ table {
 }
 
 .content {
+	text-align: left;
 	font-size: 2vw;
 	font-family: "Courier New", Courier, monospace;
 	text-decoration: none;
