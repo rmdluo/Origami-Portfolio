@@ -1,5 +1,5 @@
 .picture {
-	width: 100%;
+	width: 30%;
 	height: auto;
 }
 
@@ -82,7 +82,6 @@ table {
 }
 
 .content {
-	text-align: center;
 	font-size: 2vw;
 	font-family: "Courier New", Courier, monospace;
 	text-decoration: none;
